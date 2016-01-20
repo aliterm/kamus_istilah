@@ -20,10 +20,6 @@ ascending,menanjak/urut naik
 attribut,atribut
 autoformat,otoformat
 bar,bilah
-block,cekal/blokir
-blur,kabur
-bookmark,markah/penanda
-browser,peramban
 back,balik
 back slah,garis miring kiri
 back up,cadangan
@@ -33,10 +29,13 @@ bandwidth,lebar pita
 bar,batang
 base,basis
 batch,tumpak
+block,cekal/blokir
+blur,kabur
 binary,tumpak
 bold,tebal
-browse,ramban/jelajah
-browser,peramban,penjelajah
+bookmark,markah/penanda
+browse,ramban
+browser,peramban
 buffer,penyangga
 bug,kutu
 bullet,bulet
