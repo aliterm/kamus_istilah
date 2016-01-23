@@ -1,24 +1,82 @@
+abbort,gugurkan
+acces,akses
 account,akun
+acction button,tombol aksi
+action setting,penataan aksi
 add-ons,pengaya
+address,alamat
+align left,rata kiri
+align right,rata kanan
+alternate,silih
+alignment,perataan
+animation,animasi
+anonymous,anonim
+append,bubuh
+application,aplikasi
+apply,terapkan
+arrange,susun
+array,larik
+ascending,menanjak/urut naik
+attribut,atribut
+autoformat,otoformat
 bar,bilah
+back,balik
+back slah,garis miring kiri
+back up,cadangan
+background,latar belakang
+backtracking,lacak balik
+bandwidth,lebar pita
+bar,batang
+base,basis
+batch,tumpak
 block,cekal/blokir
 blur,kabur
+binary,tumpak
+bold,tebal
 bookmark,markah/penanda
+browse,ramban
 browser,peramban
 bug,kutu
+bullet,bulet
+button,tombol
+byte,bita
 cache,tembolok/singgahan
 cancel,batal
+capacity,kapasitas
+capslock,kacing kapital
+caption,takarir
+cartiridge,katrid/selongsong
+cascade,riam
+cell,sel
 channel,kanal
-charger, pengisi daya
+chart,bagan
+chatting,rumpi
+click,klik
+client,klien
+cluster,gugus/rumpun
+coding,pengodean
 collapse,ciutkan
 cookie,kuki
+count,cacah
+crack,rengkah
+cracker,perengah
 crash,mogok
 crop,pangkas
+cursor,kursor
+daemon,jurik
 database,pangkalan data
+datasheet,lembar data
+debug,awakutu
+decoding,pengawasandian
+decrease,kurang/susut
 default,asali/baku/bawaan
+delete,hapus
+descending,menurun/urut turun
 device,peranti
 directory,direktori
+disc,cakram/diska
 disclaimer,penafian
+domain,ranah
 download,unduh
 draft,konsep
 drag,seret
@@ -29,68 +87,118 @@ dropdown,pilihan menurun
 edit,sunting
 email,surel (surat elektronik)
 embed,semat
+encryption,enkripsi
 error,galat
 expand,bentangkan
 extension,ekstensi
+fetch,jemput/ambil
 field,bidang/isian
 file,berkas
 filter,penyaring
 find,temukan
-font,huruf
+firmware,peranti tegar
+font,huruf/fonta
+folder,pelipat
 gadget,gawai
+gateway,gerbang
+gigabyte,gigabita
+hack,retas
 hacker,peretas
+hang,macet
 hastag,tagar (tanda pagar)
-heading,tajuk
+header,tajuk
+heading,penajukan
 highlight,sorot
 history,riwayat
 home,beranda
+hyperlink,hipertaut
 image,citra
+import,impor
+inbox,kotak masuk
+input,masukan
+insert,sisip/sisipan
 install,pasang/instal
 installing,pemasangan
+interface,antarmuka
+italic,italik/miring
+keyboard,papan ketik
+keypad,bantalan tombol
+kilobyte,kilobita
+lanscape,lanskap
+launch,luncur
 laptop,komputer jinjing
+link,taut
+list,senarai
 load,muat
 loading,memuat
+lock,kancing
+macro,makro
+megabyte,megabita
 menubar,bilah menu
+merge,gabung
 mount,kait
 mouse,tetikus
+network,jaringan
+networking,jejaring
+numlock,kancing angka
 offline,luring (luar jaringan)
 online,daring (dalam jaringan)
 option,opsi
 password,sandi/kata sandi
 paste,tempel
+pause,jeda
 permission,hak akses
 picture,gambar
 popup,sembulan
+port,pangkalan
 post,kirim
 posting,kiriman
+potrait,potret
+power,daya
 preference,prefersensi
 preview,pratinjau/pratayang/pratampil
 privacy,privasi
+prompt,siap ketik
 proxy,proksi/pewali
+query,kueri
+record,utas/rekam
 redo,ulangi
 refresh,segarkan
 reload,muat ulangi
+repeat,ulang
+replace,ganti
 repository,lumbung
 request,permintaan
+reset,tata ulang
 response,balasan
 review,ulasan
 save,simpan
 scan,pindai
+scroll,menggulung
 search,cari
 server,peladen
 setting,setelan/pengaturan
 setup,setel
 setup,siapkan
 sharing,berbagi
+shift,alih
+slash,garis miring
+slide,salindia
+split,belah
 submit,kirim
+subscriber,penika bawah
 swipe,gesek
+synchronize,menyelaraskan
 tap,ketuk
+taskbar,batang tugas
+template,templat
 terms & condition,Syarat dan Ketentuan
-thread,utas
+thread,utas/ulir
 timeline,kronologi/linimasa
 tool,perkakas/alat
 toolbar,bilah alat
 touch,sentuh
+trace,runut
 undo,urungkan
 uninstal,hapus pemasangan/hapus instalasi
 unmount,putus kait
@@ -105,3 +213,4 @@ web,jaringan
 website,laman
 window,jendela
 wizard,penuntut
+zoom,zum
