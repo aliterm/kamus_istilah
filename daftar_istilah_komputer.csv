@@ -1,12 +1,13 @@
-abort,gugurkan
-access,akses
+abbort,gugurkan
+acces,akses
 account,akun
-action button,tombol aksi
+acction button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
 align left,rata kiri
 align right,rata kanan
+alignment,perataan
 alternate,silih
 alignment,perataan
 animation,animasi
@@ -17,21 +18,24 @@ apply,terapkan
 arrange,susun
 array,larik
 ascending,menanjak/urut naik
-attribute,atribut
+attribut,atribut
 autoformat,otoformat
 bar,bilah
 back,balik
 back slah,garis miring kiri
 back up,cadangan
+back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
 bar,batang
+bar,bilah
 base,basis
 batch,tumpak
+binary,tumpak
 block,cekal/blokir
 blur,kabur
-binary,biner
+binary,tumpak
 bold,tebal
 bookmark,markah/penanda
 browse,ramban
@@ -67,6 +71,7 @@ daemon,jurik
 database,pangkalan data
 datasheet,lembar data
 debug,awakutu
+debugging,pengawakutuan
 decoding,pengawasandian
 decrease,kurang/susut
 default,asali/baku/bawaan
@@ -97,6 +102,7 @@ file,berkas
 filter,penyaring
 find,temukan
 firmware,peranti tegar
+folder,pelipat
 font,huruf/fonta
 folder,pelipat
 gadget,gawai
@@ -125,6 +131,7 @@ keyboard,papan ketik
 keypad,bantalan tombol
 kilobyte,kilobita
 lanscape,lanskap
+laptop,komputer jinjing
 launch,luncur
 laptop,komputer jinjing
 link,taut
@@ -159,6 +166,7 @@ preference,prefersensi
 preview,pratinjau/pratayang/pratampil
 privacy,privasi
 prompt,siap ketik
+prototype,purwarupa/prototipe
 proxy,proksi/pewali
 query,kueri
 record,utas/rekam
@@ -176,6 +184,7 @@ save,simpan
 scan,pindai
 scroll,menggulung
 search,cari
+selfie,swafoto
 server,peladen
 setting,setelan/pengaturan
 setup,setel
