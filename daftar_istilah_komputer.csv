@@ -7,8 +7,8 @@ add-ons,pengaya
 address,alamat
 align left,rata kiri
 align right,rata kanan
-alternate,silih
 alignment,perataan
+alternate,silih
 animation,animasi
 anonymous,anonim
 append,bubuh
@@ -19,24 +19,24 @@ array,larik
 ascending,menanjak/urut naik
 attribut,atribut
 autoformat,otoformat
-bar,bilah
-back,balik
 back slah,garis miring kiri
 back up,cadangan
+back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
 bar,batang
+bar,bilah
 base,basis
 batch,tumpak
+binary,tumpak
 block,cekal/blokir
 blur,kabur
-binary,tumpak
 bold,tebal
 bookmark,markah/penanda
 browse,ramban
 browser,peramban
-bug,kutu
+bug,kekutu
 bullet,bulet
 button,tombol
 byte,bita
@@ -67,6 +67,7 @@ daemon,jurik
 database,pangkalan data
 datasheet,lembar data
 debug,awakutu
+debugging
 decoding,pengawasandian
 decrease,kurang/susut
 default,asali/baku/bawaan
@@ -97,8 +98,8 @@ file,berkas
 filter,penyaring
 find,temukan
 firmware,peranti tegar
-font,huruf/fonta
 folder,pelipat
+font,huruf/fonta
 gadget,gawai
 gateway,gerbang
 gigabyte,gigabita
@@ -125,8 +126,8 @@ keyboard,papan ketik
 keypad,bantalan tombol
 kilobyte,kilobita
 lanscape,lanskap
-launch,luncur
 laptop,komputer jinjing
+launch,luncur
 link,taut
 list,senarai
 load,muat
@@ -159,6 +160,7 @@ preference,prefersensi
 preview,pratinjau/pratayang/pratampil
 privacy,privasi
 prompt,siap ketik
+prototype,purwarupa/prototipe
 proxy,proksi/pewali
 query,kueri
 record,utas/rekam
@@ -176,6 +178,7 @@ save,simpan
 scan,pindai
 scroll,menggulung
 search,cari
+selfie,swafoto
 server,peladen
 setting,setelan/pengaturan
 setup,setel
