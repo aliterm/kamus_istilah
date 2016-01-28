@@ -5,11 +5,11 @@ action button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
+Algorithm, algoritma
 align left,rata kiri
 align right,rata kanan
 alignment,perataan
 alternate,silih
-alignment,perataan
 animation,animasi
 anonymous,anonim
 append,bubuh
@@ -20,22 +20,21 @@ array,larik
 ascending,menanjak/urut naik
 attribute,atribut
 autoformat,otoformat
-bar,bilah
 back,balik
 back slash,garis miring kiri
 back up,cadangan
-back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
+bar,bilah
 bar,batang
 bar,bilah
 base,basis
 batch,tumpak
 binary,tumpak
+binary,biner
 block,cekal/blokir
 blur,kabur
-binary,biner
 bold,tebal
 bookmark,markah/penanda
 browse,ramban
@@ -55,12 +54,16 @@ cell,sel
 channel,kanal
 chart,bagan
 chatting,rumpi
+chip,cip
 click,klik
 client,klien
+clone,klon
 cluster,gugus/rumpun
 coding,pengodean
 collapse,ciutkan
+commit,"komit,komitmen,melakukan"
 cookie,kuki
+copyright,hak cipta
 count,cacah
 crack,rengkah
 cracker,perengah
@@ -94,6 +97,7 @@ email,surel (surat elektronik)
 embed,semat
 encryption,enkripsi
 error,galat
+ethernet,eternet
 expand,bentangkan
 extension,ekstensi
 fetch,jemput/ambil
@@ -104,19 +108,20 @@ find,temukan
 firmware,peranti tegar
 folder,pelipat
 font,huruf/fonta
-folder,pelipat
 gadget,gawai
 gateway,gerbang
 gigabyte,gigabita
 hack,retas
 hacker,peretas
 hang,macet
+harddisk,"cakram keras,diska keras"
 hastag,tagar (tanda pagar)
 header,tajuk
 heading,penajukan
 highlight,sorot
 history,riwayat
 home,beranda
+hotspot, area bersinyal
 hyperlink,hipertaut
 image,citra
 import,impor
@@ -133,13 +138,13 @@ kilobyte,kilobita
 lanscape,lanskap
 laptop,komputer jinjing
 launch,luncur
-laptop,komputer jinjing
 link,tautan
 list,senarai
 load,muat
 loading,memuat
 lock,kancing
 macro,makro
+mailing list,daftar surel
 megabyte,megabita
 menubar,bilah menu
 merge,gabung
@@ -154,6 +159,7 @@ option,opsi
 password,sandi/kata sandi
 paste,tempel
 pause,jeda
+penetration,"penetrasi,penerobosan"
 permission,hak akses
 picture,gambar
 popup,sembulan
@@ -162,17 +168,20 @@ post,kirim
 posting,kiriman
 potrait,potret
 power,daya
-preference,prefersensi
+preference,	preferensi
 preview,pratinjau/pratayang/pratampil
+printer,pencetak
 privacy,privasi
 prompt,siap ketik
 prototype,purwarupa/prototipe
 proxy,proksi/pewali
+pull,tarik
+push,dorong
 query,kueri
 record,utas/rekam
 redo,ulangi
 refresh,segarkan
-reload,muat ulangi
+reload,muat ulang
 repeat,ulang
 replace,ganti
 repository,lumbung
@@ -181,11 +190,14 @@ reset,tata ulang
 response,balasan
 review,ulasan
 save,simpan
+save as,simpan sebagai
 scan,pindai
+scanner,pemindai
 scroll,menggulung
 search,cari
 selfie,swafoto
 server,peladen
+software,perangkat lunak
 setting,setelan/pengaturan
 setup,setel
 setup,siapkan
@@ -193,6 +205,7 @@ sharing,berbagi
 shift,alih
 slash,garis miring
 slide,salindia
+sound card,kartu suara
 split,belah
 submit,kirim
 subscriber,penika bawah
@@ -209,6 +222,7 @@ tool,perkakas/alat
 toolbar,bilah alat
 touch,sentuh
 trace,runut
+transliteration,"transliterasi,alih aksara"
 undo,urungkan
 uninstal,hapus pemasangan/hapus instalasi
 unmount,putus kait
