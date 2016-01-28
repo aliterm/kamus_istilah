@@ -1,7 +1,7 @@
-abbort,gugurkan
-acces,akses
+abort,gugurkan
+access,akses
 account,akun
-acction button,tombol aksi
+action button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
@@ -18,11 +18,11 @@ apply,terapkan
 arrange,susun
 array,larik
 ascending,menanjak/urut naik
-attribut,atribut
+attribute,atribut
 autoformat,otoformat
 bar,bilah
 back,balik
-back slah,garis miring kiri
+back slash,garis miring kiri
 back up,cadangan
 back,balik
 background,latar belakang
@@ -49,7 +49,7 @@ cancel,batal
 capacity,kapasitas
 capslock,kacing kapital
 caption,takarir
-cartiridge,katrid/selongsong
+cartridge,katrid/selongsong
 cascade,riam
 cell,sel
 channel,kanal
@@ -134,7 +134,7 @@ lanscape,lanskap
 laptop,komputer jinjing
 launch,luncur
 laptop,komputer jinjing
-link,taut
+link,tautan
 list,senarai
 load,muat
 loading,memuat
@@ -197,6 +197,7 @@ split,belah
 submit,kirim
 subscriber,penika bawah
 swipe,gesek
+sync,sinkron
 synchronize,menyelaraskan
 tap,ketuk
 taskbar,batang tugas
@@ -222,4 +223,4 @@ web,jaringan
 website,laman
 window,jendela
 wizard,penuntut
-zoom,zum
+zoom,perbesar
