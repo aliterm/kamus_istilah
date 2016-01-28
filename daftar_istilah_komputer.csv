@@ -8,8 +8,8 @@ address,alamat
 align left,rata kiri
 align right,rata kanan
 alignment,perataan
-alternate,silih
 alignment,perataan
+alternate,silih
 animation,animasi
 anonymous,anonim
 append,bubuh
@@ -20,22 +20,22 @@ array,larik
 ascending,menanjak/urut naik
 attribute,atribut
 autoformat,otoformat
-bar,bilah
+back,balik
 back,balik
 back slash,garis miring kiri
 back up,cadangan
-back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
+bar,bilah
 bar,batang
 bar,bilah
 base,basis
 batch,tumpak
 binary,tumpak
+binary,biner
 block,cekal/blokir
 blur,kabur
-binary,biner
 bold,tebal
 bookmark,markah/penanda
 browse,ramban
@@ -60,6 +60,7 @@ client,klien
 cluster,gugus/rumpun
 coding,pengodean
 collapse,ciutkan
+commit,"komit,komitmen,melakukan"
 cookie,kuki
 count,cacah
 crack,rengkah
@@ -103,14 +104,15 @@ filter,penyaring
 find,temukan
 firmware,peranti tegar
 folder,pelipat
-font,huruf/fonta
 folder,pelipat
+font,huruf/fonta
 gadget,gawai
 gateway,gerbang
 gigabyte,gigabita
 hack,retas
 hacker,peretas
 hang,macet
+harddisk,"cakram keras,diska keras"
 hastag,tagar (tanda pagar)
 header,tajuk
 heading,penajukan
@@ -132,8 +134,8 @@ keypad,bantalan tombol
 kilobyte,kilobita
 lanscape,lanskap
 laptop,komputer jinjing
-launch,luncur
 laptop,komputer jinjing
+launch,luncur
 link,tautan
 list,senarai
 load,muat
@@ -154,6 +156,7 @@ option,opsi
 password,sandi/kata sandi
 paste,tempel
 pause,jeda
+penetration,"penetrasi,penerobosan"
 permission,hak akses
 picture,gambar
 popup,sembulan
@@ -168,6 +171,8 @@ privacy,privasi
 prompt,siap ketik
 prototype,purwarupa/prototipe
 proxy,proksi/pewali
+pull,tarik
+push,dorong
 query,kueri
 record,utas/rekam
 redo,ulangi
@@ -209,6 +214,7 @@ tool,perkakas/alat
 toolbar,bilah alat
 touch,sentuh
 trace,runut
+transliteration,"transliterasi,alih aksara"
 undo,urungkan
 uninstal,hapus pemasangan/hapus instalasi
 unmount,putus kait
