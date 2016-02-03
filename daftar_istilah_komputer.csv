@@ -5,7 +5,7 @@ action button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
-Algorithm, algoritma
+algorithm, algoritma
 align left,rata kiri
 align right,rata kanan
 alignment,perataan
@@ -145,9 +145,11 @@ loading,memuat
 lock,kancing
 macro,makro
 mailing list,daftar surel
+maximized,dimaksimalkan
 megabyte,megabita
 menubar,bilah menu
 merge,gabung
+minimized,diminimalkan
 mount,kait
 mouse,tetikus
 network,jaringan
@@ -158,6 +160,7 @@ online,daring (dalam jaringan)
 option,opsi
 password,sandi/kata sandi
 paste,tempel
+path,jalur
 pause,jeda
 penetration,"penetrasi,penerobosan"
 permission,hak akses
@@ -184,10 +187,14 @@ refresh,segarkan
 reload,muat ulang
 repeat,ulang
 replace,ganti
+replay,memainkan kembali
 repository,lumbung
 request,permintaan
 reset,tata ulang
 response,balasan
+restart,mulai ulang
+restore,mengembalikan
+restored,dikembalikan
 review,ulasan
 save,simpan
 save as,simpan sebagai
@@ -207,6 +214,7 @@ slash,garis miring
 slide,salindia
 sound card,kartu suara
 split,belah
+state,keadaan
 submit,kirim
 subscriber,penika bawah
 swipe,gesek
