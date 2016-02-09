@@ -5,7 +5,7 @@ action button,tombol aksi
 action setting,penataan aksi
 add-ons,pengaya
 address,alamat
-algorithm, algoritma
+algorithm,algoritma
 align left,rata kiri
 align right,rata kanan
 alignment,perataan
@@ -20,23 +20,22 @@ array,larik
 ascending,menanjak/urut naik
 attribute,atribut
 autoformat,otoformat
-back,balik
 back slash,garis miring kiri
 back up,cadangan
+back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
-bar,bilah
 bar,batang
 bar,bilah
 base,basis
 batch,tumpak
-binary,tumpak
 binary,biner
 block,cekal/blokir
 blur,kabur
 bold,tebal
 bookmark,markah/penanda
+braces,kurung kurawal
 browse,ramban
 browser,peramban
 bug,kutu
@@ -132,9 +131,11 @@ insert,sisip/sisipan
 install,pasang/instal
 installing,pemasangan
 interface,antarmuka
+istilah asing,arti
 italic,italik/miring
 keyboard,papan ketik
 keypad,bantalan tombol
+keyword,kata kunci
 kilobyte,kilobita
 lanscape,lanskap
 laptop,komputer jinjing
@@ -159,6 +160,7 @@ numlock,kancing angka
 offline,luring (luar jaringan)
 online,daring (dalam jaringan)
 option,opsi
+parentheses,kurung lengkung
 password,sandi/kata sandi
 paste,tempel
 path,jalur
@@ -172,7 +174,7 @@ post,kirim
 posting,kiriman
 potrait,potret
 power,daya
-preference,	preferensi
+preference, preferensi
 preview,pratinjau/pratayang/pratampil
 printer,pencetak
 privacy,privasi
@@ -197,15 +199,14 @@ restart,mulai ulang
 restore,mengembalikan
 restored,dikembalikan
 review,ulasan
-save,simpan
 save as,simpan sebagai
+save,simpan
 scan,pindai
 scanner,pemindai
 scroll,menggulung
 search,cari
 selfie,swafoto
 server,peladen
-software,perangkat lunak
 setting,setelan/pengaturan
 setup,setel
 setup,siapkan
@@ -213,8 +214,10 @@ sharing,berbagi
 shift,alih
 slash,garis miring
 slide,salindia
+software,perangkat lunak
 sound card,kartu suara
 split,belah
+square brackets,kurung siku
 state,keadaan
 submit,kirim
 subscriber,penika bawah
