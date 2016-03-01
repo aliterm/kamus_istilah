@@ -17,7 +17,7 @@ application,aplikasi
 apply,terapkan
 arrange,susun
 array,larik
-ascending,menanjak/urut naik
+ascending,"menanjak,urut naik"
 attribute,atribut
 autoformat,otoformat
 back slash,garis miring kiri
@@ -26,15 +26,14 @@ back,balik
 background,latar belakang
 backtracking,lacak balik
 bandwidth,lebar pita
-bar,batang
-bar,bilah
-base,basis
+bar,"batang,bilah"
+base,"basis,pangkalan"
 batch,tumpak
 binary,biner
-block,cekal/blokir
+block,"cekal,blokir"
 blur,kabur
 bold,tebal
-bookmark,markah/penanda
+bookmark,"markah,penanda"
 braces,kurung kurawal
 browse,ramban
 browser,peramban
@@ -42,12 +41,12 @@ bug,kutu
 bullet,bulet
 button,tombol
 byte,bita
-cache,tembolok/singgahan
+cache,"tembolok,singgahan"
 cancel,batal
 capacity,kapasitas
 capslock,kacing kapital
 caption,takarir
-cartridge,katrid/selongsong
+cartridge,"katrid,selongsong"
 cascade,riam
 cell,sel
 channel,kanal
@@ -57,7 +56,7 @@ chip,cip
 click,klik
 client,klien
 clone,klon
-cluster,gugus/rumpun
+cluster,"gugus,rumpun"
 coding,pengodean
 collapse,ciutkan
 commit,"komit,komitmen,melakukan"
@@ -76,13 +75,14 @@ datasheet,lembar data
 debug,awakutu
 debugging,pengawakutuan
 decoding,pengawasandian
-decrease,kurang/susut
-default,asali/baku/bawaan
+decrease,"kurang,susut"
+default,"asali,baku,bawaan"
 delete,hapus
-descending,menurun/urut turun
+dependency,"dependensi,ketergantungan"
+descending,"menurun,urut turun"
 device,peranti
 directory,direktori
-disc,cakram/diska
+disc,"cakram,diska"
 disclaimer,penafian
 domain,ranah
 download,unduh
@@ -100,14 +100,14 @@ error,galat
 ethernet,eternet
 expand,bentangkan
 extension,ekstensi
-fetch,jemput/ambil
-field,bidang/isian
+fetch,"jemput,ambil"
+field,"bidang,isian"
 file,berkas
 filter,penyaring
 find,temukan
 firmware,peranti tegar
 folder,pelipat
-font,huruf/fonta
+font,"huruf,fonta"
 gadget,gawai
 gateway,gerbang
 gigabyte,gigabita
@@ -121,18 +121,19 @@ heading,penajukan
 highlight,sorot
 history,riwayat
 home,beranda
-hotspot, area bersinyal
+hotspot,area bersinyal
 hyperlink,hipertaut
 image,citra
 import,impor
 inbox,kotak masuk
 input,masukan
-insert,sisip/sisipan
-install,pasang/instal
+insert,"sisip,sisipan"
+install,"pasang,instal"
+installer,pemasang
 installing,pemasangan
 interface,antarmuka
 istilah asing,arti
-italic,italik/miring
+italic,"italik,miring"
 keyboard,papan ketik
 keypad,bantalan tombol
 keyword,kata kunci
@@ -161,8 +162,9 @@ offline,luring (luar jaringan)
 online,daring (dalam jaringan)
 option,opsi
 parentheses,kurung lengkung
-password,sandi/kata sandi
+password,"sandi,kata sandi"
 paste,tempel
+path,jalan
 path,jalur
 pause,jeda
 penetration,"penetrasi,penerobosan"
@@ -174,17 +176,17 @@ post,kirim
 posting,kiriman
 potrait,potret
 power,daya
-preference, preferensi
-preview,pratinjau/pratayang/pratampil
+preference,preferensi
+preview,"pratinjau,pratayang,pratampil"
 printer,pencetak
 privacy,privasi
 prompt,siap ketik
-prototype,purwarupa/prototipe
-proxy,proksi/pewali
+prototype,"purwarupa,prototipe"
+proxy,"proksi,pewali"
 pull,tarik
 push,dorong
 query,kueri
-record,utas/rekam
+record,"utas,rekam"
 redo,ulangi
 refresh,segarkan
 reload,muat ulang
@@ -207,11 +209,12 @@ scroll,menggulung
 search,cari
 selfie,swafoto
 server,peladen
-setting,setelan/pengaturan
+setting,"setelan,pengaturan"
 setup,setel
 setup,siapkan
 sharing,berbagi
 shift,alih
+site,situs
 slash,garis miring
 slide,salindia
 software,perangkat lunak
@@ -227,18 +230,19 @@ synchronize,menyelaraskan
 tap,ketuk
 taskbar,batang tugas
 template,templat
-terms & condition,Syarat dan Ketentuan
-thread,utas/ulir
-timeline,kronologi/linimasa
-tool,perkakas/alat
+terms & condition,syarat dan ketentuan
+thread,"utas,ulir"
+timeline,"kronologi,linimasa"
+tool,"perkakas,alat"
 toolbar,bilah alat
 touch,sentuh
 trace,runut
 transliteration,"transliterasi,alih aksara"
 undo,urungkan
-uninstal,hapus pemasangan/hapus instalasi
+uninstal,"hapus pemasangan,hapus instalasi"
 unmount,putus kait
 update,perbarui
+updater,pembaru
 upgrade,tingkatkan
 upload,unggah
 user,pengguna
