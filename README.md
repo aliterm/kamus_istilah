@@ -14,6 +14,8 @@ Sayangnya, istilah-istilah komputer tersebut saat ini masih *kurang populer*, ba
 - Berkas hanya menggunakan dua kolom yakni **Term** dan **Padanan**.
 Contoh: `home,beranda`
 - Gunakan huruf kecil semua.
+- Untuk penulisan koma pemisah kolom, jangan gunakan spasi setelahnya.
+Jangan menulis seperti berikut `preference, preferensi` dengan spasi setelah koma, yang betul adalah `preference,preferensi` tanpa spasi setelah koma.
 - Jika **padanan kata** terdapat makna lebih dari satu, maka gunakan tanda petik dua (") sebagai pemarkah untuk membedakan antara koma pemisah kolom.
 Contoh: `bookmark,"markah,penanda"`
 - Jika telah selesai mengentri kata, harap kata tersebut disortir berdasarkan abjad kolom **term**. Anda bisa menggunakan aplikasi penyuntingan kata (_text editor_) seperti [Gedit](https://wiki.gnome.org/Apps/Gedit), [Sublime Text](https://www.sublimetext.com/), [Libre Office Calc] (https://www.libreoffice.org/) dan lain sebagainya.
